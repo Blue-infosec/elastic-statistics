@@ -17,7 +17,7 @@ $ python elastic-statistics.py
 ```
 on one of the elastic cluster nodes.
 
-If you wish, you can run it through crontab Start executing it periodically, e.g. using crontab.
+Run it through unix crontab to start executing it periodically and generate elastic cluster statistics.
 
 ## Notes: 
 * You need to create index first before running the elastic cluster statistics script.
