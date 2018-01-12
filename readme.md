@@ -29,7 +29,10 @@ Run it through unix crontab to start executing it periodically and generate elas
 * Visualize elastic cluster statistics using Grafana/Kibana.
 
 ## Thank you
+* Datadog article on elastic performance metrics - https://www.datadoghq.com/blog/monitor-elasticsearch-performance-metrics/#indexing-performance-metrics
 * The following Elastic discussion thread was useful to show bulk indexing using python:
 https://discuss.elastic.co/t/need-help-to-create-a-python-script-to-create-index-on-cluster-helath-api/28834/2
+* After writing the code, I found this similar project - https://github.com/abronner/elasticsearch-monitoring
+
 
 
